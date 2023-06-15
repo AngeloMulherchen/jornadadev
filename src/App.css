@@ -13,10 +13,10 @@ html{
   height: 100vh;
   max-height: 800px;
   width: 80%;
-  max-width: 400px;
+  max-width: 500px;
   border: 1px solid black;
   border-radius: 20px;
-  overflow: scroll;
+  overflow: hidden;
   scroll-snap-type: y mandatory;
   position: relative;
 }
