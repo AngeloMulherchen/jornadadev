@@ -1,6 +1,6 @@
 import React,{ useRef, useState } from 'react';
 import VideoFooter from "./components/footer/VideoFooter"
-import "./video.css";
+import "./Video.css"
 
 function Video() {
 
