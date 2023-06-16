@@ -7,7 +7,7 @@ function VideoFooter() {
     <div className='videoFooter'>
         <div className='videoFooter_text'>
           <h2>@Inthecompanyofstars</h2>
-          <p>Descrição do Vídeo</p>
+          <p>Nesse video mostro para vocês o gatinho brincando!</p>
 
          <div className='videoFooter_music'>
          <MusicNoteIcon className='videoFooter_icon' /> 
